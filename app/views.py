@@ -6,4 +6,4 @@ from django.http import HttpResponse
 
 
 def firstView(req):
-    return HttpResponse("This is the response from server by Sushil")
+    return HttpResponse("This is the response From server by Sushil")
